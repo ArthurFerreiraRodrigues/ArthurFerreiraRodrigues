@@ -2,7 +2,7 @@
 <h1 align='left'>
   Welcome To My GitHub Profile <img src="assets/giphy.gif" width="45" /> 
 </h1>
-This is my personal profile, most of its content are academic related
+This is my personal profile, most of its contents are academic related
 
 ## About me
 - My name is Arthur Ferreira Rodrigues
