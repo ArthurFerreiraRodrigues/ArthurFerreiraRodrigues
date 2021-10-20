@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**ArthurFerreiraRodrigues/ArthurFerreiraRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='left'>
+  Welcome To My GitHub Profile <img src="assets/giphy.gif" width="45" /> 
+</h1>
+This is my personal profile, most of its content are academic related
 
-Here are some ideas to get you started:
+## About me
+- My name is Arthur Ferreira Rodrigues
+- I'm a Software Engineering student at <img src="assets/UNB.jpg" width="20"/> University of Brasilia (UnB)
+- I aim to learn and work with cybersecurity
+- I'm very passionate about computers and cars 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently learning
+- Java
+- Python plots using Matplotlib
+- MatLab
+
+
