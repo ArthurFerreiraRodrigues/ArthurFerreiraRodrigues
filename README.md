@@ -12,7 +12,7 @@ This is my personal profile, most of its contents are academic related
 
 ## I'm currently learning
 - Java
-- Python plots using Matplotlib
+- Python CV
 - MatLab
 
 
