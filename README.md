@@ -13,6 +13,7 @@ This is my personal profile, most of its contents are academic related and perso
 
 ## I'm currently learning
 - Angular
+- Spring Boot
 - Project Management at <a href="https://github.com/FCR-group">FCR group</a>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" >
