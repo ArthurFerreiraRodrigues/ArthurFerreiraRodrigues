@@ -1,6 +1,7 @@
 
+
 <h1 align='left'>
-  Welcome To My GitHub Profile <img src="assets/giphy.gif" width="45" /> 
+  Welcome To My GitHub Profile <img src="assets/giphy.gif" width="45" /> <img src="https://komarev.com/ghpvc/?username=ArthurFerreiraRodrigues" align='right'>
 </h1>
 This is my personal profile, most of its contents are academic related and personal projects.
 
