@@ -1,20 +1,23 @@
+AI Engineer • Software Engineer • Full Stack Developer
 
+Building AI-powered products, automations and scalable systems.
 
-<h1 align='left'>
-  Welcome To My GitHub Profile <img src="assets/giphy.gif" width="45" /> <img src="https://komarev.com/ghpvc/?username=ArthurFerreiraRodrigues" align='right'>
-</h1>
-This is my personal profile, most of its contents are academic related and personal projects.
+I'm a Software Engineer graduated from the University of Brasília (UnB) with experience across Full Stack Development, Cloud Computing, Data Engineering and Generative AI. My focus is leveraging technology to transform complex problems into simple, scalable and high-impact solutions.
 
-## About me
-- My name is Arthur Ferreira Rodrigues
-- Software Engineering student at <img src="assets/UNB.jpg" width="20"/> University of Brasilia (UnB)
-- I currently work as Front-End developer using Angular at a banking soltutions company
-- I aim to learn and work in full-stack development and cybersecurity
-- I'm very passionate about computers and cars 
+Currently working with React, Python, Azure, PostgreSQL, Terraform and AI Agents, building products and workflows powered by LLMs and modern cloud infrastructure.
 
-## I'm currently learning
-- Angular
-- Spring Boot
-- Project Management at <a href="https://github.com/FCR-group">FCR group</a>
+### Core Expertise
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" >
+- AI Agents & LLM Applications
+- Software Engineering
+- Cloud Architecture
+- Data Engineering
+- Process Automation
+- DevOps & Platform Engineering
+
+### Tech Stack
+
+`Python` `TypeScript` `React` `Next.js` `Azure` `GCP`
+`PostgreSQL` `Terraform` `Power BI` `OpenAI` `Claude`
+
+> Building technology that helps people do more, faster and better.
